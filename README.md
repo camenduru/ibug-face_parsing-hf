@@ -1,5 +1,5 @@
 ---
-title: Ibug Face_parsing
+title: iBUG Face Parsing
 emoji: 📈
 colorFrom: green
 colorTo: gray
