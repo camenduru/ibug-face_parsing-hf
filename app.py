@@ -24,7 +24,7 @@ from ibug.face_parsing.utils import label_colormap
 
 TITLE = 'hhj1897/face_parsing'
 DESCRIPTION = 'This is an unofficial demo for https://github.com/hhj1897/face_parsing.'
-ARTICLE = None
+ARTICLE = '<center><img src="https://visitor-badge.glitch.me/badge?page_id=hysts.ibug-face_parsing" alt="visitor badge"/></center>'
 
 TOKEN = os.environ['TOKEN']
 
