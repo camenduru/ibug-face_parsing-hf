@@ -22,9 +22,8 @@ from ibug.face_detection import RetinaFacePredictor
 from ibug.face_parsing.parser import WEIGHT, FaceParser
 from ibug.face_parsing.utils import label_colormap
 
-REPO_URL = 'https://github.com/hhj1897/face_parsing'
 TITLE = 'hhj1897/face_parsing'
-DESCRIPTION = f'This is a demo for {REPO_URL}.'
+DESCRIPTION = 'This is an unofficial demo for https://github.com/hhj1897/face_parsing.'
 ARTICLE = None
 
 TOKEN = os.environ['TOKEN']
